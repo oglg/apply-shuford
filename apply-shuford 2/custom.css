@@ -1,0 +1,213 @@
+@import 
+url('https://fonts.googleapis.com/css2?family=Poppins:wght@200;400;700&display=swap');
+*{
+    font-family: "poppins";
+}
+.accordion-button{ 
+    background-color:#F2AE2E;
+}
+
+p{
+    font-size:20px;
+}
+.text-container{
+    color: #02568A;
+}
+.footer {
+    display:flex;
+    flex-direction: row;
+    background-color: #02568A;
+    height: 125px;
+}
+strong{
+    color: #02568A;
+}
+.apply-img{
+    width:3rem;}
+
+.navbar-toggler{
+    background-color:#F2AE2E;
+    width: 6rem;}
+
+.nav-link{
+    border: solid #02568A;
+border-radius:10px ;
+     background-color:#F2AE2E;
+     width: 100%;
+
+}
+.container form {
+    background-color: #02568A ;
+}
+nav{ 
+    display: flex;
+    padding-top: 20rem;
+    margin-top: -5px;
+    border-radius: 19px;
+    height:350px;
+}
+.navbar-nav{
+    font-size:30px; 
+}
+
+h1{ font-size: 40px;
+     display: flex;
+    justify-content: center;
+    text-transform:uppercase;
+    font-weight: 400;
+
+text-decoration-line: underline;
+text-decoration-style:double;
+text-decoration-color:#F2AE2E;
+color: #02568A;
+}
+
+h4{
+    font-size: 40px;
+}
+
+.container-text{
+    display:flex;
+    flex-direction: column;
+}
+.app-head{
+    font-size:3rem;
+}
+
+.join-text{
+    text-align: center;
+    font-size:rem;
+    color:#7EB6D9;
+}
+
+.d-grid{ height: 4rem;
+}
+
+.table-hover tbody tr:hover td, .table-hover tbody tr:hover th {
+    background-color:#F2AE2E;
+  }
+
+  fieldset { 
+    width: 100%;
+    margin-bottom: 30px;
+
+  }
+
+form{
+     background-color:#02568A;
+     color: white;
+     font-size:20px;
+    width:90%;
+    height:100%;
+      padding: 20px;
+      margin: 30px;
+      border-radius: 30px;
+      border: 3px solid rgb(66, 98, 150);
+    }
+
+    input[type="text"] ,
+    input[type="email"],
+    select
+    {width:75%;
+    MARGIN:15px;
+      height:65px;
+    }
+
+header
+    {font-size: 2rem;}
+
+    .app-text{ 
+        color: #fdfdfd;
+        text-align: center;
+        font-size: 3rem;
+}
+
+ul.course-list{
+    list-style-type: circle;}
+
+.in-text{color:#F2AE2E}
+
+button{
+    width:100%;
+    height:3rem;
+    margin-bottom: 20px;
+}
+
+input::placeholder,
+textarea::placeholder {
+  color:#7EB6D9;
+}
+
+input:hover,
+input:focus,
+textarea:hover,
+textarea:focus {
+  border: 5px solid #F2AE2E;
+}
+
+.form-select{
+width: 75%;
+    color:#02568A;
+}
+
+button{
+    padding: 0 39px 40px 39px;
+    color: #fff;
+    background-color: #F2AE2E;
+    font-size:2rem;
+    text-align: center;
+    font-style: normal;
+    border-radius: 5px;
+    border: none;
+    width: 100%;
+    margin-bottom: 10px;
+    transition: all 350ms;
+}
+
+button:hover,
+button:focus {
+  filter:brightness(80%)
+}
+
+
+input[type="SUBMIT"]
+select{
+background-color: #F2AE2E;
+padding: 19px 39px 18px 39px;
+color: #fff;
+font-size: 18px;
+text-align: center;
+font-style: normal;
+border-radius: 5px;
+border: none;
+width: 100%;
+margin-bottom: 10px;
+transition: all 350ms;
+
+}
+fieldset {
+    margin-bottom: 30px;
+    border: none;
+    color:#ffffff;}
+
+    h3 {
+        font-family: "Poppins"; 
+        font-weight: 400;
+        color:white;
+        padding:10px;
+    }
+
+    .contact{
+        padding: 2rem;
+        font-size: 2rem;
+        text-align: center;
+        color:#02568A;
+        font-weight: 1000;
+    }
+    .btn btn-primary{
+        border-radius: 30px;
+    }
+    .container-fluid-bg{
+        background-color: #7EB6D9;
+        padding: 3rem;
+    }
